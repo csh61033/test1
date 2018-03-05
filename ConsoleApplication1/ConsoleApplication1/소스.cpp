@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout << "testing23" << endl;
-	cout << "Ãß°¡Çß´Ù ÀÀ ¾Æ³Ä" << endl;
-	cout << "Ãß°¡Çß´Ù ÀÀ ¾Æ³Ä2" << endl;
+	cout << "testing23tetete" << endl;
+  cout << "ï¿½ß°ï¿½ï¿½ß´ï¿½ ï¿½ï¿½ ï¿½Æ³ï¿½" << endl;
+  cout << "ï¿½ß°ï¿½ï¿½ß´ï¿½ ï¿½ï¿½ ï¿½Æ³ï¿½2" << endl;
+	cout << "ÃƒÃŸÂ°Â¡Ã‡ÃŸÂ´Ã™" << endl;
 }
