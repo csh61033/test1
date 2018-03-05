@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "testing23" << endl;
-	cout << "�߰��ߴ�" << endl;
+	cout << "testing23tetete" << endl;
+	cout << "Ãß°¡Çß´Ù" << endl;
 }
